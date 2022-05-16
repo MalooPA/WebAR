@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "WEB QR",
+"productName": "WEBQR_MRTK",
 "productVersion": "0.1",
 "dataUrl": "builds.data.unityweb",
 "wasmCodeUrl": "builds.wasm.code.unityweb",
